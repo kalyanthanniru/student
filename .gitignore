@@ -1,0 +1,6 @@
+test-repot.html
+target/
+*.retry
+*.swp
+**/*.jar
+text
